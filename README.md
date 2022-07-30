@@ -19,7 +19,7 @@
 |03|[동명이인 찾기 1](https://github.com/hwahyeon/Our_Algorithm_py/blob/main/03.ipynb)||
 |04|[팩토리얼 구하기](https://github.com/hwahyeon/Our_Algorithm_py/blob/main/04.ipynb)||
 |05|[최대공약수 구하기](https://github.com/hwahyeon/Our_Algorithm_py/blob/main/05.ipynb)||
-|06|[하노이의 탑 옮기기](https://github.com/hwahyeon/Our_Algorithm_py/blob/main/06.ipynb)||
+|06|[하노이의 탑 옮기기](https://github.com/hwahyeon/Our_Algorithm_py/blob/main/06.ipynb)|부록 D 포함|
 |07|[순차 탐색](https://github.com/hwahyeon/Our_Algorithm_py/blob/main/07.ipynb)||
 |08|[선택 정렬](https://github.com/hwahyeon/Our_Algorithm_py/blob/main/08.ipynb)||
 |09|[삽입 정렬](https://github.com/hwahyeon/Our_Algorithm_py/blob/main/09.ipynb)||
